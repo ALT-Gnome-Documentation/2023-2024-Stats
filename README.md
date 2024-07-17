@@ -1,4 +1,4 @@
-# Статистика проекта за 2023-2024
+# Статистика проекта за 2023-2024 (На момент 17.07.2024)
 
 ## Количество участников команды - 36
 [![Участники](https://contrib.rocks/image?repo=OlegShchavelev/ALTGnomeWiki)](https://github.com/OlegShchavelev/ALTGnomeWiki/graphs/contributors)
