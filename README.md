@@ -141,3 +141,31 @@
         Терминал
         RetroArch
         "Ответ на вопрос, почему apt-get, а не apt"
+- [`@trashb1t`](https://github.com/trashb1t) - Владислав Темнов
+  - Правки кода шаблонов участников и спонсоров на странице "Главная"
+  - Добавление бокового бара в статье "EPM"
+  - Правки статьи "Игры/Minecraft"
+- [`@rirusha`](https://t.me/rirusha) - Владимир Васьков
+  - Создан и дополнен раздел "Разработка/Vala"
+  - Правки статьи "Кассета"
+- [`@alchere`](https://github.com/alchere) - alchere
+  - Статья "Flatpak" - Добавлено отключение непривелегерованных пользователей
+  - Статья "Быстрый старт" - Добавлено обновление системы через `epm full-upgrade`
+  - Дополнена статья "Нужна ли мне антивирусная программа?"
+- [`@ilyazheprog`](https://t.me/ilyazheprog) - Илья Женецкий
+  - Добавление и дополнение статьи "Docker"
+    Добавлена статья "mipch"
+- [`@Mr_Cyber_X`](https://t.me/Mr_Cyber_X) - Cyber:X
+  - Добавлена статья Dosage
+  - Изменен стиль кнопок в блоке спонсоров
+- [`@TaxGardien`](https://t.me/TaxGardien) - Belovmv (Максим)
+  - Добавлена статья Synching
+  - Дополнена статья Timeshift
+- [`@lRespublica`](https://github.com/lRespublica) - Leonid 
+  - Правка секции `sudo` на странице "Быстрый старт"
+- [`@h3try`](https://t.me/h3try) - Дмитрий Бондарев 
+  - Добавил "Чистые" URL страниц
+- [`@spiderVS`](https://t.me/spiderVS) - Anatol Dauliud
+  - Правка статьи "Быстрый старт"
+- [`@Vovk4Morkovk4`](https://t.me/Vovk4Morkovk4) - Вовка Морковка 
+  - Правка статьи flatpak
