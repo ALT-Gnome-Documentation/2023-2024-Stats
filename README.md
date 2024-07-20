@@ -1,7 +1,7 @@
 # Статистика проекта (1 января 2024 - 20 июля 2024)
 
 ## Количество участников команды - 34
-[![Участники](https://contrib.rocks/image?repo=OlegShchavelev/ALTGnomeWiki)](https://github.com/OlegShchavelev/ALTGnomeWiki/graphs/contributors)
+[![Участники](https://github.com/ALT-Gnome-Documentation/2023-2024-Stats/blob/main/image.svg?raw=true)](https://github.com/OlegShchavelev/ALTGnomeWiki/graphs/contributors?from=2024-02-01&to=2024-07-20&type=c)
 ## Количество PR - 417
 ## Закрыто Issue - 48 (Закрыто - 28, Открыто - 20)
 ## Количество коммитов - 1 719
